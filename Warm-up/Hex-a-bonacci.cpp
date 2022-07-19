@@ -42,6 +42,7 @@ int fn( int n ) {
 		x[i] = x[i] % 10000007;
 
 	}
+	//Arik
 
 	return x[n];
 }

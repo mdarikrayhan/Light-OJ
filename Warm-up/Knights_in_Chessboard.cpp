@@ -10,16 +10,6 @@ typedef long long ll;
 typedef long double ld;
 typedef complex<ld> cd;
 
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pl;
-typedef pair<ld, ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
 
 #define rep(i, a, b) for (int i = a; i < (b); i++)
 #define per(i, a, b) for (int i = (b)-1; i >= a; i--)
